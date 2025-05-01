@@ -1,4 +1,4 @@
-# 🌊 Analisis Kualitas Air Sungai Menggunakan Teknik Statistik Multivariat
+# 🌊 Analisis Kualitas Air Sungai Menggunakan Statistika Multivariat
 
 Penelitian ini bertujuan untuk menganalisis data kualitas air sungai guna mengidentifikasi parameter-parameter utama yang memengaruhi perubahan kualitas air secara **temporal** dan **spasial**. Mengingat kompleksitas dan volume besar data kualitas air, digunakan pendekatan **statistik multivariat** untuk mengekstraksi informasi penting sebagai dasar pengambilan keputusan dalam pengelolaan pencemaran sungai.
 
@@ -36,10 +36,4 @@ Penelitian ini bertujuan untuk menganalisis data kualitas air sungai guna mengid
 
 ---
 
-## 🛠️ Tools yang Digunakan
-- Python (pandas, sklearn, seaborn, matplotlib)
-- SPSS untuk analisis diskriminan dan faktor (opsional)
-- Excel untuk preprocessing (jika diperlukan)
-
----
 
